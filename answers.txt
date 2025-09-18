@@ -1,0 +1,8 @@
+Pros:
+Agile teams can quickly adjust to changes in requirements or priorities.
+
+The iterative approach allows for the delivery of working software in small, frequent increments, getting products to market faster.
+
+Cons:
+Implementing and scaling Agile in large organizations can be difficult.
+The flexibility that allows for changes can lead to an undefined or expanding scope if not managed carefully.
