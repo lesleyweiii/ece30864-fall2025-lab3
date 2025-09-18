@@ -19,3 +19,5 @@ To synchronize activities and create a plan for the next 24 hours by assessing p
 
 Sprint Review:
 To inspect the outcome of the sprint and determine what has changed in the product backlog.
+
+An Epic is a large body of work that's broken down into smaller stories, which represent a specific feature or requirement from an end-user's perspective. A Task is a specific, actionable to-do that contributes to completing a Story or Epic. A Bug is an unplanned defect, problem, or error in the software that prevents it from working as intended and needs to be fixed. 
