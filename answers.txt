@@ -6,3 +6,7 @@ The iterative approach allows for the delivery of working software in small, fre
 Cons:
 Implementing and scaling Agile in large organizations can be difficult.
 The flexibility that allows for changes can lead to an undefined or expanding scope if not managed carefully.
+
+The Product Owner focuses on the defining the product vision, managing the product backlog, and ensuring the team builds the right product to maximize value.
+
+The Scrum Master focuses on the coaching the team on Scrum principles, removing impediments, and fostering a self-organizing, efficient development process.
